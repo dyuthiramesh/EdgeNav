@@ -63,7 +63,7 @@ The system is optimized using the OpenVINO toolkit to achieve real-time inferenc
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/EdgeNav.git
+   git clone https://github.com/dyuthiramesh/EdgeNav.git
    cd EdgeNav
 
 2. Set up OpenVINO on Raspberry Pi:
